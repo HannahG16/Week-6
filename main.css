@@ -1,6 +1,6 @@
 :root {
     font-size: 75.5%;
-    font-family: montserrat, sans-serif;
+    font-family: 'montserrat', sans-serif;
 }
 
 h1 {
@@ -37,7 +37,7 @@ hr {
     display: grid;
     grid-template-columns: repeat(auto-fit,minmax (300px, 1fr));
     grid-gap: 1.5rem;
-    grid-auto-flow: minmax (150px, auto);
+    grid-auto-flow: minmax(150px, auto);
 }
 
 .image {
